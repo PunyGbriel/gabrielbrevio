@@ -1,4 +1,3 @@
-<!-- Banner ou título -->
 <h1 align="center">👋 Olá, eu sou Gabriel Dantas Brevio!</h1>
 
 <p align="center">
